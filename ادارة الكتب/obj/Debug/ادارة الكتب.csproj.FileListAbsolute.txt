@@ -1,0 +1,12 @@
+c:\users\a\documents\visual studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\ادارة الكتب.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\ادارة الكتب.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\ادارة الكتب.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة الكتب.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة_الكتب.Properties.Resources.resources
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة الكتب.csproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة الكتب.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة الكتب.pdb
+C:\Users\a\documents\visual studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\a\documents\visual studio 2012\Projects\ادارة الكتب\ادارة الكتب\obj\Debug\ادارة_الكتب.Form1.resources
+C:\Users\a\documents\visual studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\Db_book.mdf
+C:\Users\a\documents\visual studio 2012\Projects\ادارة الكتب\ادارة الكتب\bin\Debug\Db_book_log.ldf
